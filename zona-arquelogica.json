@@ -1,0 +1,122 @@
+[
+    {
+      "nombre": "Uxmal",
+      "traduccion": "La tres veces construida",
+      "municipio": "Santa Elena",
+      "descripcion": "Al sur de Yucatán emerge con espectacularidad la zona arqueológica de Uxmal, declarada por la UNESCO Patrimonio de la Humanidad.",
+      "horario": "8:00 AM - 5:00 PM",
+      "sitio_web": "https://www.yucatan.gob.mx/?p=uxmal",
+      "precio":  90,
+      "tipo": "Zona arqueologica",
+      "promocion" : "Precio menor a ciudadanos mexicanos",
+      "urlImagen": "https://www.yucatan.gob.mx/docs/galerias/uxmal/0.jpg"
+    },
+    {
+      "nombre": "Chichén Itzá",
+      "traduccion": "Boca del pozo de los Itzáes",
+      "municipio": "Tinum",
+      "descripcion": "La legendaria ciudad maya de Chichén Itzá, Patrimonio de la Humanidad declarada por la UNESCO desde 1988 y Maravilla del Mundo desde 2007, sobresalió como centro cultural y político de la vieja civilización maya.",
+      "horario": "8:00 AM - 5:00 PM",
+      "sitio_web": "https://www.yucatan.gob.mx/?p=chichen_itza",
+      "precio":  614,
+      "tipo": "Zona arqueologica",
+      "promocion" : "Precio menor a ciudadanos mexicanos y gratis en caso de presentar credencial escolar.",
+      "urlImagen": "https://www.yucatan.gob.mx/docs/galerias/chichen_itza/1.jpg"
+    },
+    {
+      "nombre": "Chacmultún",
+      "traduccion": "Montículos de piedra roja",
+      "municipio": "Tekax",
+      "descripcion": "A la antigua ciudad la integran cuatro grupos arquitectónicos monumentales denominados Chacmultún, Cabalpak, Xethpol y Central; en conjunto cubren aproximadamente 1 km2.",
+      "horario": "8:00 AM - 5:00 PM",
+      "sitio_web": "https://www.yucatan.gob.mx/?p=chacmultun",
+      "precio":  55,
+      "tipo": "Zona arqueologica",
+      "promocion" : "Precio menor a ciudadanos mexicanos y gratis en caso de presentar credencial escolar.",
+      "urlImagen": "https://www.yucatan.gob.mx/docs/galerias/chacmultun/chacmultun3.jpg"
+    },
+    {
+      "nombre": "Dzibilchaltún",
+      "traduccion": "Lugar donde hay escritura en las piedras",
+      "municipio": "Mérida",
+      "descripcion": "Según los expertos, hubo asentamientos desde el año 500 a.C., es posible que desde antes, y perduró hasta la conquista de los españoles alrededor del año 1540 d.C.",
+      "horario": "8:00 AM - 5:00 PM",
+      "sitio_web": "https://www.yucatan.gob.mx/?p=dzibilchaltun",
+      "precio": 259,
+      "tipo": "Zona arqueologica",
+      "promocion" : "Precio menor a ciudadanos mexicanos y gratis en caso de presentar credencial escolar.",
+      "urlImagen": "https://www.yucatan.gob.mx/docs/galerias/dzibilchaltun/5.jpg"
+    },
+    {
+      "nombre": "Kabáh",
+      "traduccion": "El señor de la mano fuerte y poderosa",
+      "municipio": "Santa Elena",
+      "descripcion": "Declarada Parque Estatal desde 1993. La referencia más antigua a este asentamiento es la que aparece en el Chilam Balam de Chumayel",
+      "horario": "8:00 AM - 5:00 PM",
+      "sitio_web": "https://www.yucatan.gob.mx/?p=kabah",
+      "precio": 90,
+      "tipo": "Zona arqueologica",
+      "promocion" : "Las personas físicas que acrediten la residencia en México están exentas del pago los días domingo.",
+      "urlImagen": "https://www.yucatan.gob.mx/docs/galerias/kabah/10.jpg"
+    },
+    {
+      "nombre": "Ek Balam",
+      "traduccion": "Jaguar negro u oscuro",
+      "municipio": "Temozón",
+      "descripcion": "Ek Balam, poseedor de majestuosas construcciones ocultas entre grandes árboles, es un sitio diferente a todos los del área maya.",
+      "horario": "8:00 AM - 5:00 PM",
+      "sitio_web": "https://www.yucatan.gob.mx/?p=ek_balam",
+      "precio": 180,
+      "tipo": "Zona arqueologica",
+      "promocion" : "Residentes en Yucatán 75 pesos.",
+      "urlImagen": "https://www.yucatan.gob.mx/docs/galerias/ek_balam/13.jpg"
+    },
+    {
+      "nombre": "Labná",
+      "traduccion": "Casa vieja",
+      "municipio": "Oxkutzcab",
+      "descripcion": "Pequeña pero importante urbe maya, que alcanzó su esplendor entre los años 600 y 900 d.C.",
+      "horario": "8:00 AM - 5:00 PM",
+      "sitio_web": "https://www.yucatan.gob.mx/?p=labna",
+      "precio": 42,
+      "tipo": "Zona arqueologica",
+      "promocion" : "Domingo: Los visitantes Nacionales no pagan.",
+      "urlImagen": "https://www.yucatan.gob.mx/docs/galerias/labna/0.jpg"
+    },
+    {
+      "nombre": "Oxkintok",
+      "traduccion": "Tres días de pedernal o Tres soles cortantes",
+      "municipio": "Maxcanú",
+      "descripcion": "Su nombre proviene del maya yucateco: ox, tres; kin, sol o día y tok, pedernal. Las evidencias arqueológicas sugieren un período de ocupación a partir del siglo I en el Preclásico tardío, hasta el siglo XVI.",
+      "horario": "8:00 AM - 5:00 PM",
+      "sitio_web": "https://www.yucatan.gob.mx/?p=oxkintok",
+      "precio": 65,
+      "tipo": "Zona arqueologica",
+      "promocion" : "Las personas físicas que acrediten la residencia en México están exentas del pago los días domingo.",
+      "urlImagen": "https://www.yucatan.gob.mx/docs/galerias/oxkintok/7.jpg"
+    },
+    {
+      "nombre": "X´Cambó",
+      "traduccion": "Cocodrilo celestial o Lugar donde se realizan trueques",
+      "municipio": "Dzemul",
+      "descripcion": "Espléndido escaparate natural que combina apacibles playas y una zona arqueológica. Estuvo fuertemente influenciado por las ciudades mayas de Izamal y Tho’ (hoy Mérida).",
+      "horario": "8:00 AM - 5:00 PM",
+      "sitio_web": "https://www.yucatan.gob.mx/?p=xcambo",
+      "precio": 75,
+      "tipo": "Zona arqueologica",
+      "promocion" : "Sin promociones",
+      "urlImagen": "https://www.yucatan.gob.mx/docs/galerias/xcambo/5.jpg"
+    },
+    {
+      "nombre": "Sayil",
+      "traduccion": "Lugar de las hormigas arrieras",
+      "municipio": "Oxkutzcab",
+      "descripcion": "Centro urbano de gran extensión, desarrollada entre los años 600 y 900 d.C. ",
+      "horario": "8:00 AM - 5:00 PM",
+      "sitio_web": "https://www.yucatan.gob.mx/?p=sayil",
+      "precio": 65,
+      "tipo": "Zona arqueologica",
+      "promocion" : "Las personas físicas que acrediten la residencia en México están exentas del pago los días domingo.",
+      "urlImagen": "https://www.yucatan.gob.mx/docs/galerias/sayil/2.jpg"
+    }
+]

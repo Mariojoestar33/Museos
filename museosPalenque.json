@@ -1,0 +1,14 @@
+[
+    {
+        "nombre": "Museo Ik",
+        "traduccion": "Montículos de piedra roja",
+        "municipio": "Tekax",
+        "descripcion": "A la antigua ciudad la integran cuatro grupos arquitectónicos monumentales denominados Chacmultún, Cabalpak, Xethpol y Central; en conjunto cubren aproximadamente 1 km2.",
+        "horario": "8:00 AM - 5:00 PM",
+        "sitio_web": "https://www.yucatan.gob.mx/?p=chacmultun",
+        "precio":  55,
+        "tipo": "Zona arqueologica",
+        "promocion" : "Precio menor a ciudadanos mexicanos y gratis en caso de presentar credencial escolar.",
+        "urlImagen": []
+    }
+]
