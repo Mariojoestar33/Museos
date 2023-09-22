@@ -1,14 +1,40 @@
 [
     {
         "nombre": "Museo Ik",
-        "traduccion": "Montículos de piedra roja",
-        "municipio": "Tekax",
-        "descripcion": "A la antigua ciudad la integran cuatro grupos arquitectónicos monumentales denominados Chacmultún, Cabalpak, Xethpol y Central; en conjunto cubren aproximadamente 1 km2.",
-        "horario": "8:00 AM - 5:00 PM",
-        "sitio_web": "https://www.yucatan.gob.mx/?p=chacmultun",
-        "precio":  55,
+        "traduccion": "Viento",
+        "municipio": "Palenque",
+        "descripcion": "Ubicado en el corazón del Centro Histórico del Pueblo Mágico de Palenque, Chiapas, es el primer museo en la cabecera municipal y de iniciativa privada, resultado de un trabajo de colección de antigüedades de la familia CASTELLANOS MACOSSAY.",
+        "horario": "15:00 - 22:00",
+        "sitio_web": "https://hotelpalenquemuseoik.com/index.html",
+        "precio":  "Gratuito",
         "tipo": "Zona arqueologica",
-        "promocion" : "Precio menor a ciudadanos mexicanos y gratis en caso de presentar credencial escolar.",
-        "urlImagen": ["dsdsdsd"]
+        "promocion" : "",
+        "urlImagen": ["https://hotelpalenquemuseoik.com/imagen/mus/3438-Biblioteca.jpg",
+        "https://hotelpalenquemuseoik.com/imagen/mus/3445-Sala-2000.jpg",
+        "https://hotelpalenquemuseoik.com/imagen/mus/3428-Sala%20Historia.jpg"]
+    },
+    {
+        "nombre": "Letras Turisticas Palenque",
+        "traduccion": "",
+        "municipio": "Palenque",
+        "descripcion": "Letras de PALENQUE, zona turistica",
+        "horario": "15:00 - 15:00",
+        "sitio_web": "",
+        "precio":  "Gratuito",
+        "tipo": "Zona turistica",
+        "promocion" : "",
+        "urlImagen": ["https://lh5.googleusercontent.com/p/AF1QipO01ekoJC3T9ksfyW--eQ9PXeuLhjxQJZN-7aDT=w408-h306-k-no"]
+    },
+    {
+        "nombre": "Sitio de Palenque 'Alberto Ruz L'Huillier'",
+        "traduccion": "",
+        "municipio": "Palenque",
+        "descripcion": "Museo con muestras de artefactos mayas de la ciudad de Palenque, que destaca la vida cotidiana y la religión.",
+        "horario": "08:00 - 16:00",
+        "sitio_web": "https://lugares.inah.gob.mx/es/museos-inah/museo/440-museo-de-sitio-de-palenque-alberto-ruz-l-huillier.html",
+        "precio":  "Gratuito",
+        "tipo": "Zona turistica",
+        "promocion" : "Entrada libre a estudiantes, profesores, menores de 13 años y personas de la tercera edad",
+        "urlImagen": ["https://lh5.googleusercontent.com/p/AF1QipO01ekoJC3T9ksfyW--eQ9PXeuLhjxQJZN-7aDT=w408-h306-k-no"]
     }
 ]

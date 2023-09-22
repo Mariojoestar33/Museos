@@ -1,0 +1,67 @@
+[
+    {
+        "nombre": "Museo del Centro Cultural Casa 6",
+        "traduccion": "",
+        "municipio": "Campeche",
+        "descripcion": "La historia se remonta al siglo XVIII, ya que en los trabajos arqueológicos realizados durante la rehabilitación del inmueble en 1998, se hallaron cimientos de un edificio, cuyo sistema constructivo y material cerámico recuperado indican existencia desde 1700.",
+        "horario": "08:00 - 21:00",
+        "sitio_web": "https://lugares.inah.gob.mx/es/museos-inah/museo/440-museo-de-sitio-de-palenque-alberto-ruz-l-huillier.html",
+        "precio":  "Entrada $20",
+        "tipo": "Zona turistica",
+        "promocion" : "Estudiantes entrada gratuita",
+        "urlImagen": ["http://sic.gob.mx/imagenes_cache/museo_1962_g_110637.png",
+        "http://sic.gob.mx/imagenes_cache/museo_1962_g_110635.png",
+        "http://sic.gob.mx/imagenes_cache/museo_1962_g_110633.png"]
+    },
+    {
+        "nombre": "Museo El Palacio Centro Cultural",
+        "traduccion": "",
+        "municipio": "Campeche",
+        "descripcion": "La museografía de este museo concreta una propuesta educativa y cultural con una interesante lectura del pasado a través de la tecnología en sus salas interactivas.",
+        "horario": "10:00 - 17:00",
+        "sitio_web": "https://lugares.inah.gob.mx/es/museos-inah/museo/440-museo-de-sitio-de-palenque-alberto-ruz-l-huillier.html",
+        "precio":  "Entrada gratuita",
+        "tipo": "Zona turistica",
+        "promocion" : "",
+        "urlImagen": ["http://sic.gob.mx/imagenes_cache/museo_1778_i_57163.png"]
+    },
+    {
+        "nombre": "Museo Baluarte de Santa Rosa",
+        "traduccion": "",
+        "municipio": "Campeche",
+        "descripcion": "Fue el primero de los 8 Baluartes que se construyeron para proteger a la ciudad del ataque de piratas y corsarios.",
+        "horario": "09:00 - 20:00",
+        "sitio_web": "http://sic.gob.mx/ficha.php?table=museo&table_id=1749",
+        "precio":  "Entrada gratuita",
+        "tipo": "Zona turistica",
+        "promocion" : "",
+        "urlImagen": ["http://sic.gob.mx/galeria_imagen/547f52c100f9faabala.jpg.jpg",
+        "http://sic.gob.mx/images/45441"]
+    },
+    {
+        "nombre": "Museo de Arqueología Maya. Fuerte de San Miguel",
+        "traduccion": "",
+        "municipio": "Campeche",
+        "descripcion": "Este museo, se compone de dos colecciones únicas en su género en toda el área maya, una consiste en las máscaras funerarias de jadeíta procedentes de las tumbas de los Divinos Señores de Calakmul y la colección de figurillas funerarias de la isla de Jaina.",
+        "horario": "09:00 - 17:00",
+        "sitio_web": "http://sic.gob.mx/ficha.php?table=museo&table_id=1749",
+        "precio":  "Entrada $65",
+        "tipo": "Zona arquealogica",
+        "promocion" : "Estudiantes entrada gratuita",
+        "urlImagen": ["http://sic.gob.mx/imagenes_cache/museo_739_g_74017.png",
+        "http://sic.gob.mx/imagenes_cache/museo_739_g_74012.png"]
+    },
+    {
+        "nombre": "Museo de Arqueología Subacuática Fuerte de San José El Alto",
+        "traduccion": "",
+        "municipio": "Campeche",
+        "descripcion": "Para los años de 1971 y 1988 se hicieron trabajos de reconstrucción de techos y consolidación de muros con la participación del INAH y el gobierno estatal.",
+        "horario": "08:00 - 17:00",
+        "sitio_web": "http://sic.gob.mx/ficha.php?table=museo&table_id=2009",
+        "precio":  "Entrada $65",
+        "tipo": "Zona arquealogica",
+        "promocion" : "Estudiantes entrada gratuita",
+        "urlImagen": ["http://sic.gob.mx/imagenes_cache/museo_2009_g_70923.png",
+        "http://sic.gob.mx/imagenes_cache/museo_2009_g_70924.png"]
+    }
+]

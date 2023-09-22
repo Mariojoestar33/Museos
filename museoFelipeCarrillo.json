@@ -1,0 +1,28 @@
+[
+    {
+        "nombre": "Museo Maya Santa Cruz Xbáalam Naj",
+        "traduccion": "Casa del jaguar",
+        "municipio": "Felipe Carrillo",
+        "descripcion": "Su nombre significa en lengua maya santo lugar del brujo del agua. Está instalado en un espacio del convento franciscano de San Antonio de Padua, construido durante la segunda mitad del siglo XVI por fray Diego de Landa, el cual posee el atrio cerrado más grande de América.",
+        "horario": "09:00 - 19:00",
+        "sitio_web": "http://sic.gob.mx/ficha.php?table=museo&table_id=1638",
+        "precio":  "Entrada libre",
+        "tipo": "Zona turistica",
+        "promocion" : "",
+        "urlImagen": ["http://sic.gob.mx/images/39827"]
+    },
+    {
+        "nombre": "Museo de la Guerra de Castas",
+        "traduccion": "",
+        "municipio": "Felipe Carrillo",
+        "descripcion": "Está ubicado en una ex hacienda que data del siglo XVIII, en el poblado de Tihosuco, donde vivió el líder indígena Jacinto Pat.",
+        "horario": "10:00 - 18:00",
+        "sitio_web": "http://sic.gob.mx/ficha.php?table=museo&table_id=311",
+        "precio":  "Entrada libre",
+        "tipo": "Zona turistica",
+        "promocion" : "",
+        "urlImagen": ["http://sic.gob.mx/galeria_imagen/51884678b0f55expo.jpg",
+        "http://sic.gob.mx/imagenes_cache/museo_311_i_16927.png",
+        "http://sic.gob.mx/galeria_imagen/518846884caacmampara.jpg"]
+    }
+]

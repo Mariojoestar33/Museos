@@ -1,0 +1,54 @@
+[
+    {
+        "nombre": "Gran Museo del Mundo Maya",
+        "traduccion": "",
+        "municipio": "Campeche",
+        "descripcion": "Para los años de 1971 y 1988 se hicieron trabajos de reconstrucción de techos y consolidación de muros con la participación del INAH y el gobierno estatal.",
+        "horario": "08:00 - 17:00",
+        "sitio_web": "http://sic.gob.mx/ficha.php?table=museo&table_id=2009",
+        "precio":  "Entrada $100",
+        "tipo": "Zona arquealogica",
+        "promocion" : "Yucatecos $50, niños y adultos mayores $25",
+        "urlImagen": ["http://sic.gob.mx/images/119304",
+        "http://sic.gob.mx/galeria_imagen/5061deb94d9ecmaya.jpg"]
+    },
+    {
+        "nombre": "Museo de Historia Natural",
+        "traduccion": "",
+        "municipio": "Campeche",
+        "descripcion": "El museo cumple una importante tarea didáctica y de toma de conciencia sobre el pasado y futuro de nuestro planeta y de los seres que en él coexistimos; por ello divulga temas relacionados con la ecología, la ciencia, la conservación del medio ambiente y la historia natural.",
+        "horario": "09:00 - 14:00",
+        "sitio_web": "http://sic.gob.mx/ficha.php?table=museo&table_id=678",
+        "precio":  "Entrada $100",
+        "tipo": "Zona turistica",
+        "promocion" : "Yucatecos $50, niños y adultos mayores $25",
+        "urlImagen": ["http://sic.gob.mx/galeria_imagen/4d0f6fe228d16museo_de_historia_natural.jpg",
+        "http://sic.gob.mx/images/130730"]
+    },
+    {
+        "nombre": "Museo del Pueblo Maya de Dzibilchaltún",
+        "traduccion": "Lugar donde hay escritura en las piedras",
+        "municipio": "Campeche",
+        "descripcion": "El Museo del Pueblo Maya fue reinaugurado en 1994, en sustitución del antiguo Museo de Sitio de Dzibilchaltún. La propuesta arquitectónica del inmueble, construido por Fernando González Gortázar, se integra al contexto arqueológico y ecológico del sitio. El museo mantiene una relación estrecha con la comunidad, debido a que, desde el inicio del proyecto, se hizo una investigación sobre el impacto y los vínculos del mismo con las poblaciones aledañas.",
+        "horario": "08:00 - 16:00",
+        "sitio_web": "http://sic.gob.mx/ficha.php?table=museo&table_id=681",
+        "precio":  "Entrada $85",
+        "tipo": "Zona turistica",
+        "promocion" : "Niños y adultos mayores entrada libre",
+        "urlImagen": ["http://sic.gob.mx/galeria_imagen/4f71e0f2cf187mayaonce.jpg",
+        "http://sic.gob.mx/galeria_imagen/4f71e10dd7fa0mayaocho.jpg"]
+    },
+    {
+        "nombre": "Museo de Ciencias del Cráter Chicxulub",
+        "traduccion": "Cola del diablo",
+        "municipio": "Campeche",
+        "descripcion": "Museo dedicado a difundir el conocimiento generado alrededor del impacto ocurrido en nuestro planeta hace 66 millones de años. Se trata de uno de los referentes más tangibles de uno de los eventos críticos en la evolución de la vida en la Tierra.",
+        "horario": "10:00 - 16:00",
+        "sitio_web": "http://sic.gob.mx/ficha.php?table=museo&table_id=1763",
+        "precio":  "Entrada libre",
+        "tipo": "Zona turistica",
+        "promocion" : "",
+        "urlImagen": ["http://sic.gob.mx/galeria_imagen/571fb3f820a6b55786db3339e50001.jpg",
+        "http://sic.gob.mx/galeria_imagen/571fb3ec8979646932.jpg"]
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "nombre": "Centro Cultural Digital Tenosique",
+        "traduccion": "",
+        "municipio": "Tenosiqie",
+        "descripcion": "Museo con muestras de artefactos mayas de la ciudad de Palenque, que destaca la vida cotidiana y la religión.",
+        "horario": "08:00 - 21:00",
+        "sitio_web": "https://lugares.inah.gob.mx/es/museos-inah/museo/440-museo-de-sitio-de-palenque-alberto-ruz-l-huillier.html",
+        "precio":  "Gratuito",
+        "tipo": "Zona turistica",
+        "promocion" : "",
+        "urlImagen": ["https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Pdzrq36XF8-FwhJKJ3ifng&cb_client=search.gws-prod.gps&w=408&h=240&yaw=127.43193&pitch=0&thumbfov=100",
+        "https://lugares.inah.gob.mx/images/museos/portada/_thumb1/FACHADA_PRINCIPAL-MUSEO_DE_SITIO_POMONA.jpg",
+        "https://sic.cultura.gob.mx/images/44674"]
+    },
+    {
+        "nombre": "Museo de Sitio de Pomoná",
+        "traduccion": "",
+        "municipio": "Tenosiqie",
+        "descripcion": "El edificio del Museo de Sitio de PomonA es el prototipo de una casa tradicional de rancho en Tabasco. A partir de los resultados de exploración, consolidación y análisis de los materiales del Conjunto I de PomonA.",
+        "horario": "08:00 - 21:00",
+        "sitio_web": "https://lugares.inah.gob.mx/es/museos-inah/museo/440-museo-de-sitio-de-palenque-alberto-ruz-l-huillier.html",
+        "precio":  "Entrada $65",
+        "tipo": "Zona turistica",
+        "promocion" : "",
+        "urlImagen": ["http://sic.gob.mx/galeria_imagen/5e4a6cbf458a7cajete.jpg",
+        "http://sic.gob.mx/galeria_imagen/5b05b6803a631pomona.JPG",
+        "http://sic.gob.mx/images/18980"]
+    }
+]

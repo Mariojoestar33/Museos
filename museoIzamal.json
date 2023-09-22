@@ -1,0 +1,14 @@
+[
+    {
+        "nombre": "Museo Comunitario Itzmal Kauil",
+        "traduccion": "Dios maya del fuego",
+        "municipio": "Campeche",
+        "descripcion": "Su nombre significa en lengua maya santo lugar del brujo del agua. Está instalado en un espacio del convento franciscano de San Antonio de Padua, construido durante la segunda mitad del siglo XVI por fray Diego de Landa, el cual posee el atrio cerrado más grande de América.",
+        "horario": "09:00 - 14:00",
+        "sitio_web": "http://sic.gob.mx/ficha.php?table=museo&table_id=159",
+        "precio":  "Entrada libre",
+        "tipo": "Zona turistica",
+        "promocion" : "",
+        "urlImagen": ["http://sic.gob.mx/images/24386"]
+    }
+]
